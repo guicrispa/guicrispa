@@ -30,3 +30,12 @@
 <img src="https://camo.githubusercontent.com/157cf7db5cc15ce5976fa9e0cf495939c18e7b61acd328be8e1df91989ce6c5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f436f6c6f723d303030267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=000&amp;style=for-the-badge&amp;logo=javascript" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/70dbe28cb6d7fac724dc342f866d2bc2d78f589828ec4d3702ae0b0a6ec39f05/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f6c6f676f436f6c6f723d666666267374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61" alt="Figma" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?logoColor=fff&amp;style=for-the-badge&amp;logo=figma" style="max-width: 100%;">
 </p>
+
+<h3>Próximos passos:</h3>
+
+<p>
+  <img src="https://camo.githubusercontent.com/347ce645b918a48a804d428b5679ebcd1bf0d4a1af2d474edfa11da814a662d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f436f6c6f723d303030267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/React-61DAFB?logoColor=000&amp;style=for-the-badge&amp;logo=react" style="max-width: 100%;">
+  
+</p>
+
+<!-- <a target="_blank" rel="noopener noreferrer" href="https://github.com/guicrispa/guicrispa/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/guicrispa/guicrispa/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a> -->
