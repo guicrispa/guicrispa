@@ -22,8 +22,8 @@
 
 <h3>Github Stats:</h3>
 <p>
-  <img height="170em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicrispa&layout=compact&langs_count=7&theme=algolia">
-  <img height="170em" width="50%" src="https://github-readme-stats.vercel.app/api?username=guicrispa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicrispa&layout=compact&langs_count=7&theme=algolia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicrispa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
 </p>
 
 
