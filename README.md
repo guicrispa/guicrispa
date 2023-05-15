@@ -1,7 +1,7 @@
 ## Oi, eu sou o @guicrispa 👋
-- 👀 Estudante da Fatec Rubens Lara e Estagiário na Bistec - Consultoria de TI
-- 💻 Projetos com HTML, CSS, JS, PHP e Laravel, além de experiência com o Github, prototipação no Figma e projetos de acessibilidade digital
-- 📚Estudando tecnologias e frameworks como JS, Bootstrap, Angular, Flutter, PHP e Laravel
+- 👀 Estudante da Fatec Rubens Lara e Técnico de Redes de Computadores;
+- 💻 Projetos com HTML, CSS, JS, PHP e Laravel, além de experiência com o Git/Github, prototipação no Figma, UX/UI Design e projetos de acessibilidade digital;
+- 📚Estudando tecnologias e frameworks como JS, Bootstrap, Angular, Flutter, PHP e Laravel.
 
 <a href="https://www.linkedin.com/in/guilherme-crispim/">
   <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="https://www.linkedin.com/in/thallesgalvao/" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
